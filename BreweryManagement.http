@@ -1,0 +1,6 @@
+@BreweryManagement_HostAddress = http://localhost:5197
+
+GET {{BreweryManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
